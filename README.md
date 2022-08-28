@@ -1,24 +1,3 @@
-# README
+# Aplicación web que muestra frases de Chuck Norris
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Simple aplicación que se vale de la API https://api.chucknorris.io/ para mostrar frases.
